@@ -1,4 +1,4 @@
-# DISCIPLINA: Banco de Dados 2
+﻿# DISCIPLINA: Banco de Dados 2
 # ALUNO: 17409065
 ##### ARQUIVOS
 <span style="color:red">
